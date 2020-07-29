@@ -1,2 +1,2 @@
-# Repl-Sorkin18
-Replication code for Sorkin (2018).
+# Replication of Sorkin (2018) - Ranking Firms using Revealed Preferences
+
